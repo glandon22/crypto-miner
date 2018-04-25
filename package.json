@@ -1,0 +1,23 @@
+{
+  "name": "crypto-miner",
+  "version": "1.0.0",
+  "description": "mine crypto data",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glandon22/crypto-miner.git"
+  },
+  "author": "George Wright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glandon22/crypto-miner/issues"
+  },
+  "homepage": "https://github.com/glandon22/crypto-miner#readme"
+}
