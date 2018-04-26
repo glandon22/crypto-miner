@@ -4,6 +4,7 @@
   "description": "mine crypto data",
   "main": "index.js",
   "dependencies": {
+    "mysql": "^2.15.0",
     "request": "^2.85.0"
   },
   "devDependencies": {},
